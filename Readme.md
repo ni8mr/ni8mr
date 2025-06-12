@@ -4,7 +4,7 @@ I am a passionate self-taught **Full Stack Software Engineer** from **Bangladesh
 
 🔭 I have worked on a variety of projects and products, ranging from fintech applications to climate tech solutions. I am currently working at [ME SOLshare LTD](https://solshare.com/).
 
-🌱 Currently, I am actively working on a dashboard developed using React, integrating and maintaining APIs built in Flask. I am also exploring React Native, as I may become engaged in developing a mobile application for a local startup.
+🌱 Currently, I am actively working on a dashboard developed using React, integrating and maintaining APIs built in Flask.
 
 You can find me busy on my official [GitHub profile](https://github.com/noorReza), where I contribute to the official repositories of ME SOLshare LTD.
 
