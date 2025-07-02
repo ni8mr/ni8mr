@@ -1,6 +1,7 @@
 # Hi there, I'm Noor Faizur Reza
 
 I am a passionate self-taught **(Front-end heavy) Full Stack Software Engineer** from **Bangladesh**. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. 
+
 I am an avid reader, and my background in Pure Mathematics has helped me select and prioritize suitable solutions to various problems.
 
 🔭 I have worked on a variety of projects and products, ranging from fintech applications to climate tech and menstrual hygiene related solutions. I am currently working at [Vertical Innovations Limited](https://www.vertical-innovations.com/) as a Senior (Technical) Consultant.
