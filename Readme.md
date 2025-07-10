@@ -19,5 +19,5 @@ I am an avid reader, and my background in **Pure Mathematics** has helped me sel
 **Other Tools:** Docker | Git | GitHub Actions | AWS | Heroku
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/faizur-reza) and [Stack Overflow](https://stackoverflow.com/users/3458727/ni8mr).  
-You can also check out my resume [here](https://drive.google.com/file/d/1DC7OTooEPv1cfAkcU-C6rNH2GggHlXkc/view?usp=drive_link](https://drive.google.com/file/d/1pBxtIgkKFt_ldZiTi96V2_pEwScAeO-N/view?usp=sharing).  
+You can also check out my resume [here](https://drive.google.com/file/d/1pBxtIgkKFt_ldZiTi96V2_pEwScAeO-N/view?usp=drive_link).  
 Feel free to reach out to me for any queries or collaboration opportunities.
